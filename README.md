@@ -1,11 +1,14 @@
 # Experiment--02-Implementation-of-combinational-logic
 
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
+
 Developed by: Ashwin Kumar.S
+
 RegisterNumber:  212222240013
 
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
+
  F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
  
  
