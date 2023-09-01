@@ -94,7 +94,8 @@ assign F1 = x1+x2+x3+x4+x5;
 endmodule
 ```
 ## RTL Diagram:
-![output](op2.jpg)
+![op2](https://github.com/Ashwinkumar-03/Experiment--02-Implementation-of-combinational-logic-/assets/118663725/d07e6f29-e808-45a1-8ad7-987bfd58e878)
+
 ## truth table:
 ![output](op3.jpg)
 
