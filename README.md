@@ -94,12 +94,13 @@ assign F1 = x1+x2+x3+x4+x5;
 endmodule
 ```
 ## RTL Diagram:
-![op2](https://github.com/Ashwinkumar-03/Experiment--02-Implementation-of-combinational-logic-/assets/118663725/d07e6f29-e808-45a1-8ad7-987bfd58e878)
+![rtl](https://github.com/Ashwinkumar-03/Experiment--02-Implementation-of-combinational-logic-/assets/118663725/661c2a7e-21fe-4f19-9a0d-2da28956e30c)
+
 
 ## truth table:
-![output](op3.jpg)
+![tt](https://github.com/Ashwinkumar-03/Experiment--02-Implementation-of-combinational-logic-/assets/118663725/83cf8915-9b02-464c-954c-ca281a11df5b)
 
 ## Timing Diagram:
-![output](op1.jpg)
+![wf](https://github.com/Ashwinkumar-03/Experiment--02-Implementation-of-combinational-logic-/assets/118663725/aa1ef37f-b4ed-42c1-90b2-6878a67ce975)
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
